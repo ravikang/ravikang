@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravikang
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning how to use Kafka for simplfying data pipelines.
+- 🌱 I’m currently learning how to use Jupyter notebooks for simplfying data pipelines.
 - 📫 How to reach me: ravikang77@gmailcom
 
 <!---
